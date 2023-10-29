@@ -25,13 +25,18 @@ Leeres Sudoku
 
 ## **Beispiel 2**
 
+### **Lösungsidee**
+
 roman_to_decimal
+
 In irgendeiner Struktur muss man den Zeichen Werte zuweisen. zB. Entweder über zwei Arrays wo einer die Zeichen speichert und das andere die Werte oder über ein Switch Case statement. Dann muss die man die Unterscheidung machen ob eine kleinere Zahl vor oder nach der größeren steht. Dies könnte man machen, in dem man sich den vorherigen Wert merkt.
 
+
 decimal_to_roman
+
 Hier würde man sich immer das größte römische Zeichen suchen, dass noch kleiner gleich die Zahl ist, dann dem String hinzufügen und den Wert von der Zahl abziehen. Solange wiederholen in einer Schleife bis die Zahl 0 ist.
 
-### **Lösungsidee**
+### **Testfälle**
 
 Verschiedene Testfälle für roman_to_decimal, auch leerer String oder ungültiges Zeichen
 
@@ -40,5 +45,3 @@ Verschiedene Testfälle für roman_to_decimal, auch leerer String oder ungültig
 Verschiedene Testfälle für decimal_to_roman, auch ungültige Eingaben
 
 ![](doc/roman2.png)
-
-### **Testfälle**
