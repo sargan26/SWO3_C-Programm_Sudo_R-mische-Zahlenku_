@@ -2,11 +2,11 @@
 
 Nachname und Vorname: Daniel Mitterlehner
 
-Aufwand [Stunden]:    9.0
+Aufwand [Stunden]:    12.0
 
 ## **Erfüllungsgrad**
 
 | Beispiel  | Gewichtung  | Lösungsidee (15%) | Implement. (70%) | Testen (15%)    |
 | --------- | :---------: | :---------------: | :--------------: | :-------------: |
 | 1         | 50          | 100               | 100              | 100             |
-| 2         | 50          | 0                 | 0                | 0               |
+| 2         | 50          | 100               | 100            | 100               |
