@@ -1,8 +1,8 @@
 # **SWO3-Übungen - WS2023/24 - Übungszettel 3 - Deckblatt**
 
-Nachname und Vorname: Sorglos Susi
+Nachname und Vorname: Daniel Mitterlehner
 
-Aufwand [Stunden]:    0.0
+Aufwand [Stunden]:    9.0
 
 ## **Erfüllungsgrad**
 
